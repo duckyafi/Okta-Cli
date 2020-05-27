@@ -17,6 +17,8 @@ This is my collection Okta-Cli Commands
 <li>okta-cli users list (list all the users in your Okta tenet)</li>
 <li>okta-cli users deactivate enter userid</li>
 <li>okta-cli users get email or id (when searching for a specific user)</li>
+<li>okta-cli users update 00ub0a1uveQ1IZ0BZ4x6 -s credentials.password.value="password2020!" (to change users password)</li>
+<li>okta-cli users list | grep username (use this to find a specific user)</li>
 
 ----------------------------------
 
