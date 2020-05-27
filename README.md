@@ -5,9 +5,9 @@ This is my collection Okta-Cli Commands
 
 <li>install https://pypi.org/project/okta-cli/ or if you have pip installed (pip install okta-cli)</li>
 
-<li>Setup the config file okta-cli config new -n xx-username -u https://companyurl.okta.com -t <API_TOKEN></li>
+<li>Setup config file: okta-cli config new -n xx-username -u https://companyurl.okta.com -t <API_TOKEN></li>
 
-<li>* If you run into issues after installing delete the config file and try running the install again this file is located inside the ~/Library/Application\ Support/okta-cli if you installed on a Mac</li>
+<li>* If you run into issues after installing delete the config file and try running the install again file is located inside the ~/Library/Application\ Support/okta-cli if you installed on a Mac</li>
 
 
 ----------------------------------
