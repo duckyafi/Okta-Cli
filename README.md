@@ -1,2 +1,2 @@
-# Okat-Cli
+# Okta-Cli
 Okta-Cli Commands
