@@ -11,3 +11,20 @@ This is my collection Okta-Cli Commands
 
 
 ----------------------------------
+
+<h2>User Commands</h2>
+
+<li>okta-cli users list (list all the users in your Okta tenet)</li>
+<li>okta-cli users deactivate enter user id</li>
+
+----------------------------------
+
+<h3>Application Commands</h3>
+
+<li>okta-cli apps list (list all the application in your Okta tenet)</li>
+
+----------------------------------
+
+<h3>Group Commands</h3>
+
+<li>okta-cli groups list (list all the groups in your Okta tenet)</li>
