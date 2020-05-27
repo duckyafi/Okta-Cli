@@ -7,9 +7,9 @@ This is my collection Okta-Cli Commands
 
 <li>Setup config file: okta-cli config new -n xx-username -u https://companyurl.okta.com -t <API_TOKEN></li>
 
-<li>* If you run into issues after installing delete the config file and try running the install again file is located inside the ~/Library/Application\ Support/okta-cli if you installed on a Mac</li>
+<li>If you run into issues after installing delete the config file and try running the install again file is located inside the ~/Library/Application\ Support/okta-cli if you installed on a Mac</li>
 
-<p>If you need to run two commands simultaneously use the | option</p>
+<li>If you need to run two commands simultaneously use the | option</li>
 ----------------------------------
 
 <h2>User Commands</h2>
