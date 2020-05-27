@@ -16,6 +16,7 @@ This is my collection Okta-Cli Commands
 
 <li>okta-cli users list (list all the users in your Okta tenet)</li>
 <li>okta-cli users deactivate enter userid</li>
+<li>okta-cli users get email or id (when searching for a specific user)<li/>
 
 ----------------------------------
 
