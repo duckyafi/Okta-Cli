@@ -43,4 +43,4 @@ This is my collection Okta-Cli Commands
 ----------------------------------
 <h4>Bulk Functions</h4>
 
-<li>okta-cli dump (use this to dump all your Okta tenet into a csv)</li>
+<li>okta-cli dump (use this to dump all your Okta info tenet into a csv)</li>
