@@ -39,3 +39,8 @@ This is my collection Okta-Cli Commands
 <li>okta-cli groups list (list all the groups in your Okta tenet)</li>
 <li>okta-cli groups users groupid (list all the users in the group)</li>
 <li>okta-cli groups delete groupid</li>
+
+----------------------------------
+<h4>Bulk Functions</h4>
+
+<li>okta-cli dump (use this to dump all your Okta tenet into a csv)</li>
