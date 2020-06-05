@@ -19,6 +19,7 @@ This is my collection Okta-Cli Commands
 <li>okta-cli users get email or id (when searching for a specific user)</li>
 <li>okta-cli users update 00ub0a1uveQ1IZ0BZ4x6 -s credentials.password.value="password2020!" (to change users password)</li>
 <li>okta-cli users list | grep username (use this to find a specific user)</li>
+<li>okta-cli users update userid -c credentials.recovery_question -s question="What car is your dream car?" -s answer="Ford Truck" (Use this to reset a users recovery question)</li>
 
 ----------------------------------
 
