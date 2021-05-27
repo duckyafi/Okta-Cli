@@ -41,7 +41,7 @@ This is my collection Okta-Cli Commands
 <li>okta-cli groups users groupid (list all the users in the group)</li>
 <li>okta-cli groups delete groupid</li>
 <li>okta-cli groups get "Okta group ID" (prints info one Okta group)</li>
-<li>okta-cli groups clear --id "Okta group ID" (this clears all the users from the group mentioned)</li>
+<li>okta-cli groups clear --id "Okta group ID" (this clears all the users from the group)</li>
 <li>okta-cli groups add --name "okta group name" (this creates a new Okta group)</li>
 <li>okta-cli groups delete "okta group name" (this deletes an okta group)</li>
 ----------------------------------
