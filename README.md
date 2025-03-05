@@ -20,6 +20,7 @@ This is my collection Okta-Cli Commands
 <li>okta-cli users update "Users Okta ID" -s credentials.password.value="password2020!" (to change users password)</li>
 <li>okta-cli users list | grep username (use this to find a specific user)</li>
 <li>okta-cli users update userid -c credentials.recovery_question -s question="What car is your dream car?" -s answer="Ford Truck" (Use this to reset a users recovery question)</li>
+<li>okta-cli users list -s 'status eq "staged"'</li>
 
 ----------------------------------
 
